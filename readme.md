@@ -1,6 +1,9 @@
 ## Books that shaped my character
 
-
+#### A New History of Modern Computing- Thomas Haigh and Paul E. Ceruzzi
+- talks about what technologies needed to come for different markets to emerge
+- shows what worked and what failed, and why
+- discusses who helped, so you are aware of what skillsets are most important
 #### The Fountainhead- Ayn Rand
 - read this when i started my first business. i recommend this for anyone first starting. focuses on the "i", and Atlas Shrugged focuses on the "we"
 #### Atlas Shrugged- Ayn Rand
